@@ -1,0 +1,116 @@
+* {
+
+	margin: 0;
+	padding: 0;
+	box-sizing: 0;
+
+}
+
+h1 {
+
+	font-size: 50px;
+
+}
+
+h2 {
+
+	font-size: 30px;
+
+}
+
+p {
+
+	font-size: 25px;
+}
+
+
+body {
+	background-image: url('flowers-1920x1200-wallpaper-457894.jpg');
+	background-size: cover;
+	background-position: left;
+	background-attachment: fixed;
+	font-family: 'Indie Flower', cursive;
+
+	
+}
+
+#cabecera {
+
+
+	float: left;
+	padding:10Px;
+	border:10Px;
+	width: 30%;
+
+
+}
+
+#biogra {
+
+	
+	float: right;
+	padding:10Px;
+	border:10Px;
+	width: 50%;
+	padding-top: 50px; 
+	margin-left: 40px;
+	overflow: auto;
+}
+
+.fab,
+.fas {
+	font-size: 20px;
+	color: black;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+body section nav ul {
+
+	
+	float: left;
+	border:10Px;
+	padding-left: 10Px;
+	width: 50%;
+	padding-top: 50px;
+	font-size: 30px; 
+}
+
+#agenda {
+
+	text-align: left;
+	padding-left: 50Px;
+	overflow: auto;
+
+}
+
+#videosmejores {
+
+	float: left;
+	border:10Px;
+	padding-right: 10Px;
+	width: 50%;
+	padding-top: 240px;
+	font-size: 30px;
+	overflow: auto; 
+	padding-left: 10Px;
+}
+
+#foto1 {
+
+    float:left;
+    width:40px;
+    margin-bottom:40px;
+    margin:0px auto;
+    height: 30px;
+    padding-bottom: 40Px;
+    padding-top: 30px;
+    
+
+}
+
+#redes li {
+
+	list-style-type: none;
+	display: inline;
+	padding-right: 5px;
+}
